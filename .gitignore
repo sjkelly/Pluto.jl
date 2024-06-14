@@ -9,8 +9,6 @@ test/frontend/artifacts/*
 !test/frontend/artifacts/.gitkeep
 .DS_Store
 
-frontend-dist
-frontend-dist-*
 node_modules
 .parcel-cache
 frontend/dist
