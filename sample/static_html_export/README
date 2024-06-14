@@ -1,0 +1,5 @@
+# Running
+
+```bash
+julia --project ./sample/static_html_export/export.jl
+```
